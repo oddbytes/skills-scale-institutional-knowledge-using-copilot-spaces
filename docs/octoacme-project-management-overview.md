@@ -18,7 +18,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- UX Designer: design user-centered interfaces and facilitate usability testing.
+- Data Analyst: provide data-driven insights and track key metrics.
+- DevOps Engineer: manage CI/CD pipelines, infrastructure, and deployment automation.
+- Security Lead: oversee security reviews, threat modeling, and compliance.
+- Customer Support Specialist: provide frontline support and relay user feedback.
 - Stakeholders: provide inputs and approvals.
+
+See [docs/octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for full role descriptions, responsibilities, and cross-functional handoffs.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +34,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- [Cross-Functional Handoff Checklist](octoacme-handoff-checklist.md)
+- [Onboarding Flow](octoacme-onboarding-flow.md)
+- [Stakeholder Communications Templates](octoacme-stakeholder-comms-template.md)
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
